@@ -7,5 +7,6 @@
 <p align="center"><img src="images/LinkedInFinder Icon.jpg"><span style="display:block;">&emsp;&emsp;&emsp;&emsp;</span><img src="images/QR code.jpg"></p>
 Please scan the QRcode to download or enter this URL in your browser: https://fir.im/d1pn<br>
 You can watch our demonstration at YouTube: https://youtu.be/T-Wo5MUlOso<br>
+
 ## Warning
 Please note that the our app interface has been optimized for Samsung Android 8 device, and we are sorry if its layout cannot display well on your mobile device.
