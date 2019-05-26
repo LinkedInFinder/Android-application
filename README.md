@@ -9,4 +9,4 @@ Please scan the QRcode to download or enter this URL in your browser: https://fi
 You can watch our demonstration at YouTube: https://youtu.be/T-Wo5MUlOso<br>
 
 ## Warning
-Please note that the our app interface has been optimized for Samsung Android 8 device, and we are sorry if its layout cannot display well on your mobile device.
+Please note that the our app interface has been optimized for **Samsung Android 8 device**, and we are sorry if its layout cannot display well on your mobile device.
