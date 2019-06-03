@@ -1,7 +1,7 @@
 # Android-application
 [![License](https://img.shields.io/badge/License-Apache%202-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Dependencies](https://img.shields.io/badge/dependencies-recent-green.svg)](https://github.com/ybq/Android-SpinKit)
-[![API](https://img.shields.io/badge/API-24%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=24)
+[![API](https://img.shields.io/badge/API-24%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=24)
 [![Size](https://img.shields.io/badge/Size-1.4MB-critical.svg)](https://fir.im/d1pn)
 ## Demonstration
 <p align="center"><img src="images/LinkedInFinder Icon.jpg"><span style="display:block;">&emsp;&emsp;&emsp;&emsp;</span><img src="images/QR code.jpg"></p>
